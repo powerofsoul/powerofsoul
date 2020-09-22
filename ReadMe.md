@@ -10,19 +10,6 @@
 
 ---
 
-## Programming Languages:
-C#, Typescript, JS, Node, SQL, PHP, Python, Bash
-
-## Devops 
-Kubernetes, Elastic Beanstalk, Scripting, Atlassian Tools
-
-## Testing 
-NUnit, JUnit, Jest, Mocking libraries
-
-### Other 
-Data Structures, Basic Algorithms, Agile
-
-
 <summary>Github Stats</summary>
 
 <img align="left" alt="powerofsoul's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=powerofsoul&show_icons=true&hide_border=true" />
